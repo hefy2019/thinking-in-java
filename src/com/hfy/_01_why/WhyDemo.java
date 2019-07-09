@@ -55,5 +55,6 @@ public class WhyDemo {
 		} else {
 			System.out.println("·¢½±½ð");
 		}
+		System.out.println("gitÐÞ¸´");
 	}
 }
