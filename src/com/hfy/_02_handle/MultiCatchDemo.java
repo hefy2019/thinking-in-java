@@ -24,6 +24,5 @@ public class MultiCatchDemo {
 			e.printStackTrace();
 		}
 		System.out.println("end...");
-		System.out.println("git≤‚ ‘");
 	}
 }
