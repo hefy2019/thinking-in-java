@@ -7,6 +7,7 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JTextField; //支持输入文本
+import static net.mindview.util.SwingConsole.*;
 
 /**
  * @author hefy:
@@ -36,11 +37,6 @@ public class Test_6_Button2 extends JFrame {
 	}
 
 	public static void main(String[] args) {
-		run(new Test_5_Button1(), 200, 100);
-	}
-
-	private static void run(Test_5_Button1 test_5_Button1, int i, int j) {
-		// TODO Auto-generated method stub
-		//这里的创建是存在问题的
+		run(new Test_6_Button2(), 200, 100);
 	}
 }

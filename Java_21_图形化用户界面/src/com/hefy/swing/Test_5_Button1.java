@@ -2,7 +2,7 @@ package com.hefy.swing;
 
 import java.awt.*;
 import javax.swing.*;
-
+import static net.mindview.util.SwingConsole.*;
 /**
  * @author hefy:
  * @date 2019年7月13日 上午10:55:11
@@ -19,10 +19,5 @@ public class Test_5_Button1 extends JFrame {
 
 	public static void main(String[] args) {
 		run(new Test_5_Button1(), 200, 100);
-	}
-
-	private static void run(Test_5_Button1 test_5_Button1, int i, int j) {
-		// TODO Auto-generated method stub
-		//这里的创建是存在问题的
 	}
 }
